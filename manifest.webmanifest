@@ -1,0 +1,30 @@
+{
+  "name": "Om Sai Kirana",
+  "short_name": "Om Sai Kirana",
+  "description": "Om Sai Kirana - Arya Nagar, Koardi Rd, Nagpur. Fresh groceries with fast delivery.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#7c3aed",
+  "theme_color": "#7c3aed",
+  "lang": "en",
+  "categories": [
+    "shopping",
+    "food"
+  ],
+  "icons": [
+    {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Shirdi_Sai_Baba.jpg",
+      "sizes": "192x192",
+      "type": "image/jpeg",
+      "purpose": "any"
+    },
+    {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Shirdi_Sai_Baba.jpg",
+      "sizes": "512x512",
+      "type": "image/jpeg",
+      "purpose": "any maskable"
+    }
+  ]
+}
