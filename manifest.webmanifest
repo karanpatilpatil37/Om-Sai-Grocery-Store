@@ -1,0 +1,26 @@
+{
+  "name": "Om Sai Kirana",
+  "short_name": "Om Sai Kirana",
+  "description": "Om Sai Kirana - Grocery Store",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#ffffff",
+  "theme_color": "#7c3aed",
+  "lang": "en-IN",
+  "icons": [
+    {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Shirdi_Sai_Baba.jpg",
+      "sizes": "192x192",
+      "type": "image/jpeg",
+      "purpose": "any"
+    },
+    {
+      "src": "https://commons.wikimedia.org/wiki/Special:FilePath/Shirdi_Sai_Baba.jpg",
+      "sizes": "512x512",
+      "type": "image/jpeg",
+      "purpose": "any maskable"
+    }
+  ]
+}
